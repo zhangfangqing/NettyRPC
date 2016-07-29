@@ -1,4 +1,4 @@
-package com.fangqing.annotation.demo.db;
+package com.fangqing.annotation;
 
 /**
  * @¹¦ÄÜ TODO

@@ -1,4 +1,4 @@
-package com.fangqing.annotation.demo.db;
+package com.fangqing.annotation;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
